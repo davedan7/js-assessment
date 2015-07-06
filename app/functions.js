@@ -60,6 +60,7 @@ exports.functionsAnswers = {
   },
 
   callIt : function(fn) {
+    // var args = Array.prototype.slice.call(arguments, 1, arguments.length);
 
   },
 
